@@ -12,7 +12,7 @@ def main():
 
     d1 = contador(x)
 
-    for i in rane(1,x)
+    for i in range(1,x):
         if contador(i) >= d1:
             return "not anti-prime"
 
